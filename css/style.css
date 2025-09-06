@@ -126,7 +126,9 @@ body {
 .home {
   width: 100%;
   height: 100vh;
-  background-image: url(../images/vecteezy_a-hat-and-clothes-hang-on-a-rack_65799722.webp);
+  background-image: url("../images/hom.webp");
+    background-image: url("../images/choose.webp");
+
   position: relative;
   background-size: cover;
 }
@@ -570,7 +572,7 @@ body {
 .parent {
   width: 100%;
   height: 450px;
-  background-image: url(../images/choose.webp);
+  background-image: url("../images/choose.webp");
   position: relative;
   background-size: cover;
   background-attachment: fixed;
@@ -762,7 +764,7 @@ body {
 .about {
   width: 100%;
   height: 400px;
-  background-image: url(../images/pricing-ba.webp);
+  background-image: url("../images/pricing-ba.webp");
   position: relative;
   background-size: cover;
   background-attachment: fixed;
